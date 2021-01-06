@@ -1,3 +1,5 @@
 This is the first line in the local repo master
 2nd line added to the local repo branch
 3rd line added to guthub.com brancb B1
+4th line added to B1
+5th line added to B1
